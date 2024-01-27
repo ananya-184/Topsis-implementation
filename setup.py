@@ -14,7 +14,7 @@ setup(
     description="Performs TOPSIS",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/ananya-184/102283009",
+    url="https://github.com/ananya-184/Topsis-implementation",
     author="Ananya Gupta",
     author_email="ananyagupta184@gmail.com",
     license="MIT",
